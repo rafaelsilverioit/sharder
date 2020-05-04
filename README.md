@@ -1,1 +1,1 @@
-# Consistent sharding hashing algorithm
+# Consistent hashing algorithm implementation for sharding operations
